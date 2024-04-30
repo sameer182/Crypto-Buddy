@@ -1,0 +1,24 @@
+{
+  "name": "web-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sameer Limbu",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.511.0",
+    "@aws-sdk/lib-dynamodb": "^3.511.0",
+    "@types/node": "^20.11.17",
+    "aws-sdk": "^2.1584.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.2",
+    "newsapi": "^2.4.1"
+  }
+}
