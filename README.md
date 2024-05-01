@@ -38,3 +38,25 @@ CryptoBuddy is a dynamic cryptocurrency data visualization website that utilizes
 ## System Architecture Diagram
 
 <img width="1199" alt="Final diagram" src="https://github.com/sameer182/dog_identifier/assets/20257638/db824add-de3e-4c69-aaa9-96728439514a">
+
+## Web snapshot
+
+**Landing Page**
+
+<img width="1199" alt="Final diagram" src="https://github.com/sameer182/express-js/assets/20257638/b9189b53-0e68-4dea-a501-dcc4694fe03d">
+
+**Graph Section**
+
+<img width="1440" alt="Screenshot 2024-04-03 at 10 43 14 pm" src="https://github.com/sameer182/express-js/assets/20257638/649383ff-b621-4e72-a18b-f9519f72646c">
+
+**Sentiment Section**
+
+<img width="1427" alt="sentiment screenshot" src="https://github.com/sameer182/express-js/assets/20257638/9a42186b-b3dc-419d-9c0a-f9077b045642">
+
+**Predictin Section**
+
+<img width="1399" alt="ltc prediction" src="https://github.com/sameer182/express-js/assets/20257638/4f1142d0-676c-4000-974c-b183b658625e">
+
+**News Section**
+
+<img width="1440" alt="news1" src="https://github.com/sameer182/express-js/assets/20257638/4c747416-30ee-4cc0-b114-8da273b2f74b">
